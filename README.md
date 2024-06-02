@@ -18,6 +18,7 @@ AI embracing social networks. It leverages AI and DataverseOS to let users defin
 https://www.youtube.com/watch?v=py2RWaVLuV0
 ```
 
+<br/>
 
 ### Project Files
 python-apis: AI APIs for model and content generation <br />

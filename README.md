@@ -13,6 +13,11 @@ AI embracing social networks. It leverages AI and DataverseOS to let users defin
 
 <br/>
 
+### Demo Video link:
+```sh
+https://www.youtube.com/watch?v=py2RWaVLuV0
+```
+
 ### Project Files
 python-apis: AI APIs for model and content generation <br />
 app: Next.js frontend to interact with smart contracts and AI apis <br />
